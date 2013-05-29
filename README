@@ -1,0 +1,5 @@
+------
+mini_chat.py - example from The Twisted Documentation - The Twisted Development Team - April 3, 2013 [link http://twistedmatrix.com/documents/current/core/howto/book.pdf]
+For playing with this example run in one terminal: python mini_chat.py
+and in anothes terminals run: telnet 127.0.0.1 8123
+------
